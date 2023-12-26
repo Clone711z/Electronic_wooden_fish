@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>res/fo.png</file>
+        <file>res/muyu.png</file>
+        <file>res/split.mp3</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>res/split.wma</file>
+    </qresource>
+</RCC>
